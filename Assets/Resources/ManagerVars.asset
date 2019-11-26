@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f38354f967145244ae255008e431be2, type: 3}
+  m_Name: ManagerVars
+  m_EditorClassIdentifier: 
+  bgThemeSpriteList: []
+  platformThemeSpriteList: []
+  skinSpriteList: []
+  characterSkinSpriteList: []
+  skinNameList: []
+  skinPrice: 
+  skinChooseItemPrefab: {fileID: 0}
+  characterPrefabs: {fileID: 0}
+  normalPlatform: {fileID: 0}
+  commonPlatformGroup: []
+  grassPlatformGroup: []
+  winterPlatformGroup: []
+  spikePlatformLeft: {fileID: 0}
+  spikePlatformRight: {fileID: 0}
+  diamondPrefab: {fileID: 0}
+  deathEffect: {fileID: 0}
+  nextXPos: 0.554
+  nextYPos: 0.645
+  jumpCLip: {fileID: 0}
+  fallClip: {fileID: 0}
+  hitClip: {fileID: 0}
+  diamondClip: {fileID: 0}
+  buttonClip: {fileID: 0}
+  musicOn: {fileID: 0}
+  musicOff: {fileID: 0}
